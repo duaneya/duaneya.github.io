@@ -13,12 +13,6 @@
   </url>
   
   <url>
-    <loc>https://duaneya.github.io/</loc>
-    <lastmod>2018-12-16T21:48:54+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://duaneya.github.io/post/</loc>
     <lastmod>2018-12-16T21:48:54+08:00</lastmod>
     <priority>0</priority>
@@ -26,6 +20,12 @@
   
   <url>
     <loc>https://duaneya.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://duaneya.github.io/</loc>
+    <lastmod>2018-12-16T21:48:54+08:00</lastmod>
     <priority>0</priority>
   </url>
   
